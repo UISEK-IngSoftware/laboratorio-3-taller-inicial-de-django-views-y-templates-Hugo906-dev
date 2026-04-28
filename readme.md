@@ -13,7 +13,7 @@ Nombre del estudiante: [Nombre del estudiante aquí]
 
 Nivel: [Nivel] 
 
-Carrera: [Carrera del estudiante aquí] 
+Carrera: [
 
 ## Tareas a realizar
 1. Crear la aplicación para la gestión de Pokemones
